@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+
+Hi there
+
+Just came here. loving it so far so good haha
